@@ -71,7 +71,7 @@ GROUP BY Credit_Segment;
 
 ## 📊 Dashboard Preview 
 
-(https://github.com/Ayushi-S13/Bank-CRM-Churn-Analysis/blob/main/churn_dashboard_screenshot.png?raw=true)
+![Churn Dashboard](https://raw.githubusercontent.com/Ayushi-S13/Bank-CRM-Churn-Analysis/main/churn_dashboard_screenshot.png)
 
 Features include:
 - Churn rate by demographics
