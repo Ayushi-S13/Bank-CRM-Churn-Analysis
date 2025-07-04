@@ -72,7 +72,7 @@ GROUP BY Credit_Segment;
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushi-S13/Bank-CRM-Churn-Analysis/main/churn_dashboard_screenshot.png" width="700" alt="Churn Dashboard"/>
+  <img src="https://github.com/Ayushi-S13/Bank-CRM-Churn-Analysis/blob/main/churn_dashboard_screenshot.png" width="700" alt="Churn Dashboard"/>
 </p>
 
 Features include:
