@@ -71,7 +71,7 @@ GROUP BY Credit_Segment;
 
 ## 📊 Dashboard Preview
 
-![Churn Dashboard](images/churn_dashboard_screenshot.png)
+![Churn Dashboard](churn_dashboard_screenshot.png)
 
 Features include:
 - Churn rate by demographics
