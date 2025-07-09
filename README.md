@@ -3,7 +3,7 @@
 This project dives deep into customer churn behavior at a bank using structured SQL analysis and interactive Power BI dashboards. It segments customers across demographics, engagement levels, and financial indicators to uncover churn risk and drive actionable retention strategies.
 
 <p align="center">
-  <img src="images/churn_dashboard_screenshot.png" alt="Churn Dashboard" width="700"/>
+  <img src="images/churn_dashboard_screenshot.png" alt="Churn Dashboard"/>
 </p>
 
 ---
